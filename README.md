@@ -1,4 +1,4 @@
-# Hey, I’m TeakMirror 👋
+# Hey, I’m Ansh Sonkusare 👋
 
 Full-stack dev turning my systems + backend brain toward Web3.  
 I build fast stuff, break slower stuff, and explore how blockchains actually work under the hood.
