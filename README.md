@@ -19,7 +19,7 @@ Full-stack engineer with a systems background, building on Web3 and AI agents.
 - ribozome: Private, non-custodial cross-chain yield and liquidity protocol.
 - [hhgoa-fraud-agent](https://github.com/Ansh-Sonkusare/hhgoa-fraud-agent): LLM agent that investigates card-fraud alerts on TigerGraph and files suspicious activity reports. Related tooling: [gsql-treesitter](https://github.com/Ansh-Sonkusare/gsql-treesitter), [gsql-vscode](https://github.com/Ansh-Sonkusare/gsql-vscode).
 - [Dendro](https://github.com/Ansh-Sonkusare/Dendro): Nix flake for WSL, a k3s homeserver and macOS (home-manager, nix-darwin, sops-nix, disko, deploy-rs).
-- PBL: Blockchain attendance tracker with rotating QR codes, geofencing and gasless ERC-2771 anchoring.
+- [proof-of-presence](https://github.com/Ansh-Sonkusare/proof-of-presence): Blockchain attendance tracker with rotating QR codes, geofencing and gasless ERC-2771 anchoring.
 - [reading-together](https://github.com/Ansh-Sonkusare/reading-together): Shared e-book reader for couples with live notes and reactions.
 
 ## Current Focus
